@@ -27,8 +27,10 @@ header nav {
 }
 
 main {
-  background: white;
+  background: #8A93D8;
   overflow: auto;
+  font-family: cursive;
+  color: #fff;
 }
 
 main .left {
@@ -39,6 +41,11 @@ main .left {
 main .right {
   float: right;
   width: 285px;
+}
+
+main .head {
+  text-align: center;
+  width: 570px;
 }
 
 footer .left {
